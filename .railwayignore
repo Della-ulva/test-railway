@@ -1,0 +1,9 @@
+node_modules 
+.git 
+.vscode 
+*.zip 
+*.mp4 
+*.mp3 
+*.log 
+.DS_Store 
+.env 
